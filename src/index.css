@@ -5,6 +5,7 @@
 
 html {
   @apply font-body;
+  @apply text-gray-700;
 }
 .cell-animation {
   animation: revealCharCell linear;
