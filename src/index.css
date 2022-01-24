@@ -1,7 +1,11 @@
 @tailwind base;
 @tailwind components;
+@import url(fonts.css);
 @tailwind utilities;
 
+html {
+  @apply font-body;
+}
 .cell-animation {
   animation: revealCharCell linear;
   animation-duration: 0.15s;
