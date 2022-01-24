@@ -32,6 +32,7 @@ export type CharValue =
   | 'ژ'
   | 'ر'
   | 'د'
+  | 'ذ'
   | 'پ'
   | 'و'
 
